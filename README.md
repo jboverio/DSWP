@@ -1,6 +1,6 @@
 <center><h1 style="font-size:60px;"><b><i>DSWP - DATA SCIENCE WITH PYTHON</i></b></h1></center>
 
-# 0. Avisos, regras e um pouquinho de como eu gostaria que as coisas funcionassem
+# 0. Avisos, regras e um pouquinho de como eu gostaria que as coisas funcionassem,
 ## Ferramentas que usaremos nesse treinamento: Google Colab, Github e Turtoise.
 
 ## Grupos de trabalho
